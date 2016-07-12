@@ -1,14 +1,14 @@
-layout_spectrum: 0.4296199141535908
+layout_spectrum: 0.7153403554111719
 typography_spectrum: 0.8900805846787989
 color:
-  brandStrength: 0.18276478070765734
-  lightness: 0.3088083094917238
-  saturation: 0.8472167723812163
-  rhythmicContrast: 0.3487776347901672
+  brandStrength: 0.6404412293341011
+  lightness: 0.08904522424563766
+  saturation: 0.4778600342106074
+  rhythmicContrast: 0.8312341375276446
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#703030'
+    - '#2F343B'
+    - '#7E827A'
+    - '#E3CDA4'
+    - '#C77966'
 name: UPCULT IA
